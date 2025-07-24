@@ -24,35 +24,13 @@ I'm a passionate and experienced DevOps/SRE professional with 4+ years of hands-
 
 | Category | Tools |
 |---|---|
-| **Cloud** | AWS, Azure |
-| **CI/CD** | GitHub Actions, Jenkins, GitLab CI |
+| **Cloud** | AWS, Azure, GCP |
+| **CI/CD** | Jenkins, Spinnaker, Rio, GitHub Actions |
 | **Containers** | Docker, Kubernetes, Helm |
 | **Infra as Code** | Terraform, Ansible |
-| **Monitoring** | Prometheus, Grafana, ELK |
-| **Languages** | Bash, Python |
+| **Monitoring** | Prometheus, Grafana, Splu ELK |
+| **Scripting** | Bash, Python, Shell |
 
----
-
-### 📂 Featured Projects
-
-#### 🔧 [DevOps Toolkit – Terraform + CI/CD](https://github.com/akhilmukka/devops-toolkit)
-Reusable modules, pipeline templates, and automation scripts for cloud infra.
-
-#### 📊 [SRE Monitoring Stack](https://github.com/akhilmukka/sre-monitoring-stack)
-Prometheus + Grafana monitoring setup with dashboards, alerts & auto-scaling metrics.
-
-#### 🚀 [GitHub Actions Templates](https://github.com/akhilmukka/github-actions-examples)
-Ready-to-use workflows for Docker, Kubernetes, Terraform, Slack integration, and more.
-
----
-
-### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=akhilmukka&show_icons=true&theme=tokyonight" />
-</p>
-
----
 
 ### 📫 Connect With Me
 
