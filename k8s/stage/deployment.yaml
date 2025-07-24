@@ -1,0 +1,20 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: realtime-python-app
+  namespace: stage
+spec:
+  replicas: 1
+  selector:
+    matchLabels:
+      app: realtime-python-app
+  template:
+    metadata:
+      labels:
+        app: realtime-python-app
+    spec:
+      containers:
+      - name: realtime-python-app
+        image: your-dockerhub-username/python-realtime-app:latest
+        ports:
+        - containerPort: 5000
